@@ -1,0 +1,10 @@
+{
+    "user": [
+        { "id": 1, "username": "vickyindiar", "email":"vickynewonline@gmail.com", "password": "passwordngasal", "token":"", "id_level":1 }
+    ],
+    "level":[
+        {"id_level": 1, "desc_level": "sup"},
+        {"id_level": 2, "desc_level": "ad"}
+    ]
+
+}
